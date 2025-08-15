@@ -2,9 +2,7 @@
 
 An intuitive web application built with Streamlit that empowers users to perform end-to-end machine learning tasks, from data exploration to model deployment, with both interactive and fully automated workflows.
 
-### ➡️ **[Live Demo: analyti.streamlit.app](https://analytibot.streamlit.app)**
-
-![AnalytiML Demo GIF](https://your-link-to-a-demo-gif.gif)
+### ➡️ **[Live Demo: analytibot.streamlit.app](https://analytibot.streamlit.app)**
 
 ---
 
@@ -57,8 +55,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone https://github.com/sumitbhardwaj10/AnalytiBot.git
+    cd AnalytiBot
     ```
 
 2.  **Create and activate a virtual environment:**
